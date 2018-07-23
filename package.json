@@ -1,6 +1,6 @@
 {
   "name": "@norux/npm-pubtest",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "bin": {
     "pubtest": "./bin/pubtest.js"
   },
